@@ -7,7 +7,10 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
  
+import os
 load_dotenv()
+if "ANTHROPIC_API_KEY" in st.secrets:
+    os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
  
 st.set_page_config(
     page_title="F1 Chatbox",
