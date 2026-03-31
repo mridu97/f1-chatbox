@@ -1,4 +1,4 @@
-🏎️ F1 Chatbox
+
 
 # 🏎️ F1 Chatbox
 
