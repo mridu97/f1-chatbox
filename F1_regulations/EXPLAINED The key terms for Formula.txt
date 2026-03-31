@@ -1,0 +1,29 @@
+EXPLAINED: The key terms for Formula 1’s new-for-2026 rules
+
+With Formula 1 introducing new aerodynamic and power unit rules for 2026, here’s a rundown of the key new terminology you’ll be hearing when the new season gets underway…
+
+Boost Button
+As has been the case for several years now, drivers can press a button at any point over the course of a lap to activate energy deployment. From 2026, this will be known as the Boost Button.
+
+When engaged, it will trigger a change in power unit power settings, either returning to maximum power or a profile configured by the team as per their personal choice. The boost could, in theory, either help them defend from a car behind or attack a car ahead providing they have saved enough charge. It can be used all at once or spread across the lap, depending on when they have the best chance to attack or where they are most vulnerable.
+
+Overtake Mode
+This is new-for-2026. It’s a performance aid designed to deliver closer racing and boost overtaking opportunities. It can only be activated when a driver is within a second of the car in front at the detection point, which is nominally the final corner.
+
+It allows a driver to recharge an extra +0.5MJ (megajoules) and generate an additional electrical power profile to allow them to sustain a higher speed for a longer period. It can only be used on the following lap. Its use will be most effective on longer straights as the delta speed it will deliver should have a greater effect on closing the distance between the two competing cars.
+
+Recharge
+Cars will harvest energy to charge the battery when braking, on part throttle, when lifting off (when a driver lifts off the throttle early – often referred to as lift and coast) or when ‘super clipping’ (when some harvesting happens at the end of the straight when a car is still at full throttle – although this depends on the particular engine map being used, the circuit profile, and the overall Recharge energy allowance for that circuit, which varies as per the regulations).
+
+Most of the time, the Recharge will be automated by use of selectable Recharge maps and targets so braking, part throttle and super clip will all be automated functions controlled by the ECU. The only Recharge mode the driver will have direct control of will be lift-off regen, whereby if the driver lifts off, then they can Recharge. However, doing this will disable the Active devices as well. In contrast, super clipping is still at full throttle and therefore the Active Aero will still be ‘open’.
+
+Active Aero
+For the first time, F1 cars will dynamically adjust the angle of both their front and rear wings depending on where they are on the circuit (though it is true to say F1 did have adjustable front wings in 2009 and obviously the DRS rear wing from 2011).
+
+In the corners, the flaps will be in their default 'closed' position to maintain downforce. They will move to their 'open' position to engage a low-drag mode, flattening the wings to reduce drag and increase top speed.
+
+The rear wings can open on defined straights as with DRS now, though there will be more of them per circuit – and you don't need to be inside one second of the car in front to open them.
+
+The drivers will manually ‘open’ the wings for each zone. Similar to DRS now, drivers can manually 'close' it or the wings will automatically close if they brake or lift off the throttle. There is an additional auto turn-off feature for 2026, whereby for certain zones there is also a lap distance turn-off to ensure that drivers can’t try to take certain corners with the wings ‘open’.
+
+That will prevent incidents like Jack Doohan's off at T1 in Suzuka in 2025.

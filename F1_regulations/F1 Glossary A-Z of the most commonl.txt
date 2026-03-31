@@ -1,0 +1,108 @@
+F1 Glossary: A-Z of the most commonly used terminology
+
+Improve your understanding of the fastest sport on earth by learning the most common words, phrases, acronyms and technical terms used in Formula 1. 
+Apex
+The innermost point of the driving line taken through a corner. Driving as close as possible to the apex (‘hitting the apex’) ensures the driver is taking the straightest possible line and maintaining the highest speed through a corner.
+
+Backmarker
+A slower car that is often lapped (sometime multiples times) during the race by the leading cars. Backmarkers are shown a blue flag by marshals, which indicates a faster car is approaching and the driver should move out of the way safely.
+
+Chassis
+The base frame or main supporting structure of a Formula 1 car to which elements such as the engine and suspension systems are attached. Sometimes also known as a monocoque chassis, because of the way in which the chassis is integrated with the strong carbon fibre body (or shell) of the car to better protect the driver in accidents.
+
+Chicane
+A series of corners on a circuit, normally taken at low speed, that features at least two changes of direction. Chicanes are often added to high-speed sections of a circuit to slow the cars down, improving safety and encouraging more overtaking. The majority of current Formula 1 circuits feature at least one chicane.
+
+Flags
+Here is a summary of the most important flags that are waved by marshals around the track (and also displayed on the drivers’ digital display in their cockpits) during Formula 1 practice, qualifying and races. Failure to comply with some flags can result in penalties:
+
+Black flag: Shown to a driver (alongside their race number) who has been disqualified from the race and must return to the pits immediately to retire. A handful of drivers have been shown the black flag in the history of Formula 1 for technical and on-track infringements.
+Blue flag: A warning flag shown to slower drivers instructing them to get out of the way of a faster car approaching from behind. Blue flags are shown in practice and qualifying when a slower car is hindering a faster car, and in races when slower cars are being lapped by the leading cars.
+Chequered flag (checkered flag): The black and white flag, which resembles a chequer (checker) board and is waved on the Start/Finish line to indicate the end of the race. The exact origins of the chequered flag are still debated by historians, though the earliest pictorial evidence is from the 1906 Vanderbilt Cup race in Long Island, New York.
+Red flag: A red flag indicates to the drivers that a session or race has been stopped, normally due to a serious accident or dangerous weather conditions. As well as being waved at marshal positions around the track, drivers are also alerted to a red flag via a signal on their steering wheel display. When a red flag is shown, drivers must immediately stop racing and return to the pits. Red flags have been shown in more than 70 races since 1950.
+Yellow flag: Indicates a danger near, on or blocking the track that requires drivers to slow down and not overtake. The level of danger in the immediate vicinity is shown by the yellow flag being stationary, waved or double waved
+Cockpit
+The area of the chassis where the driver sits. In modern F1 cars, the driver is almost laying down on a carbon fibre “seat” that has been specifically moulded to their body shape. Modern F1 steering wheels are also highly advanced, featuring a digital display and an array of buttons to control different functions and paddles for changing gears.
+
+Downforce
+The aerodynamic force that pushes cars downward at speed, making them “stick” to the ground and improving cornering forces. Front and rear wings, as well as diffusers and other aerodynamic elements that create downforce are a significant focus of modern F1 car design.
+
+Drive-through penalty
+One of several penalties that can be imposed on a driver by stewards during a Formula 1 race. To serve a drive-through penalty, the driver is required to drive through the pitlane without exceeding the prescribed speed limit (normally 80km/h) before re-joining the race without stopping.
+
+DRS
+Introduced to Formula 1 in 2011, the Drag Reduction System (DRS) is activated by drivers to increase the top speed of the car and make overtaking easier. It works by opening an adjustable flap on the rear wing of the car. DRS can only be activated at specific detection points when the pursuing car is within one second of the car in front.
+
+FIA
+The Federation Internationale de l'Automobile (FIA) is the governing body for many international racing series, including Formula 1. Established over 100 years ago in France, the FIA currently has member organisations in 145 countries and also promotes road safety around the world. The current president of the FIA is Jean Todt, who was Team Principal at Ferrari during Michael Schumacher’s most successful seasons with the team in the early 2000s.
+
+Formation lap
+The lap that immediately precedes the start of the race. During the relatively slow formation lap, the grid is cleared of mechanics and other team members ready for the cars to line up once again and begin racing. Also known as the warm-up lap or parade lap.
+
+Grand Chelem
+Also known as a Grand Slam. Achieved by a driver when they take pole position, record the fastest lap and then lead every lap before taking victory in a race. This rare feat has only been achieved by 25 drivers at a total of 63 races since the advent of the modern World Championship in 1950. Jim Clark holds the all-time record with 8 Grand Chelems from Lewis Hamilton, who has scored 6.
+
+Halo
+A cockpit safety structure that was introduced to Formula 1 in 2018 and has already been credited with saving the lives of several drivers. Resembling a horseshoe, the halo consists of a bar that surrounds the drivers head and is bolted to the chassis at three points.
+
+HANS
+Required to be worn by all Formula 1 drivers since 2003, the HANS (Head and Neck Support) device is a head restraint that’s designed to reduce the likelihood of serious head and neck injuries in accidents.
+
+Installation lap
+A lap of the circuit that a driver undertakes to test that the car’s throttle, brakes, steering, tyres and other important functions are operating properly. Drivers return immediately to the pits after completing an installation lap.
+
+Overcut/Undercut
+Race strategies that involve a driver attempting to pass the car in front during a pit stop window. A successful overcut involves the pursuing driver pitting after the car in front and setting faster lap times on a clear track to emerge in front after taking their own pit stop shortly after. A successful undercut sees the pursuing driver enter the pits before the car in front and take advantage of fresher tyres to gain track position when the other driver makes their pit stop.
+
+Oversteer/Understeer
+Opposite terms used in Formula 1 to describe the sensitivity of a car’s front end to steering inputs. Oversteer happens when a car turns (or steers) more than a driver intends, while understeer happens when a car turns less than a driver intends. Although both phenomena have negative effects on tyre wear and lap times, F1 drivers and designers are more likely to tolerate a car with oversteer rather than understeer, as it allows more speed to be carried into a corner and ultimately faster lap times – this advantage, however, comes with a cost of greater front-end instability and a higher risk of spinning out.
+
+
+Paddock
+The area behind the team garages (or pits) at every Formula 1 circuit that is home to the teams’ technical staff and equipment, catering, media, race officials and other important functions that contribute to the successful running of the race weekend. Access to the Paddock is tightly controlled, though F1 Experiences does offer guided tours and day passes with selected packages.
+
+Parc Fermé
+Literally translated from French as ‘closed park,’ this is a secure parking area where Formula 1 cars must be left after qualifying. No maintenance or repairs may be carried out by the team when the cars are in parc ferme.
+
+Pits
+The area at a circuit that houses the team garages. The pits are accessed by a special section of the circuit called the pit lane where speeds are limited (from pit entry to pit exit), and drivers stop during the race in front of their team’s garage for pit stops to change tyres or repair mechanical issues. Senior members of each team sit at special stations with banks of computers on the pit wall – located on the track side of the pit lane closer to the circuit – to monitor their car’s performance during practice, qualifying and the race.
+
+Podium
+The raised area, normally above the pits and next to the start/finish line, where the top 3 drivers are presented with trophies and spray champagne after the finish of the race. A photo opportunity on the podium is included with select packages from F1 Experiences.
+
+Pole position
+The first position on the grid at the start of the race. Pole position is earned by the driver recording the fastest time in the third and final period of qualifying (Q3).
+
+Practice (Free Practice)
+Formula 1 sessions that take place on every race weekend and allow the drivers to familiarise themselves with the track conditions, work on the set-ups of their cars, test different tyre compounds and prepare for qualifying and the race. Two 1-hour free practice sessions normally take place on Friday (F1 and FP2) before a final 1-hour session (FP3) before qualifying on Saturday.
+
+Qualifying
+The one-hour session on Saturday afternoon that determines the order in which drivers start the race. Different formats for qualifying have been used over the years, but the current “knockout” system has been in force since 2006. Qualifying is currently separated into three periods; the slowest cars are eliminated during the first two periods (known as Q1 and Q2) before the top ten cars compete in Q3 for pole position. 
+
+Safety Car
+An official car that is called into action during a race when there is a danger on the circuit, generally resulting from an accident or extreme weather conditions. The Safety Car runs in front of the leaders to slow the cars down until it is safe to resume racing. The current Safety Car used in Formula 1 is a Mercedes-AMG GT R and it is driven by Bernd Mayländer. The German has been Formula 1’s Safety Car Driver since 2000 and has led over 700 laps during his career. Formula 1 also introduced a Virtual Safety Car (VSC) in 2015, which requires drivers to reduce their speed by 35% and is coupled with waved yellow flags in the area of the circuit where the danger lies.
+
+Scrutineering
+In order to ensure that teams are complying with F1’s current regulations, all cars are subject to regular technical and safety checks before being declared legal to race. These checks are carried out by qualified technical representatives from the FIA (scrutineers) before the cars hit the track at every race weekend and after accident repairs.
+
+Sectors
+Sophisticated modern Formula 1 timing systems split lap times into three sections, known as sectors. Each sector is equal to approximately one third of the lap distance.
+
+Slipstream
+When travelling closely behind another car on a straight section of a circuit, the pursuing car can benefit from a slipstream (or draft). The area of low pressure created by the car in front means that the pursuing car requires less power to maintain its speed than when moving independently. While slipstreaming can be beneficial for overtaking (and has also been used by teammates working together during qualifying), the same forces in corners (rather than on straights) result in a negative effect known as ‘dirty air’ that can slow the pursuing car and make overtaking more difficult.
+
+Tyres
+
+Here are some of the most common words associated with tyres, which remain a key element in determining success or failure in Formula 1:
+Blistering: An effect caused by overheating of the tyre that causes the rubber to soften and break off from the body of the tyre. Blistering can result from the use of the wrong compound for the track surface or weather conditions, excess tyre pressure or issues with the set-up of the car.
+
+Compounds: Describes the different types of tyres used in Formula 1. In addition to treaded wet and intermediate tyres, current F1 tyre supplier Pirelli produces five compounds of slick tyres for dry running, denoted C1 to C5. In general, harder compounds (C1, C2) are more durable whilst offering less grip/speed, while softer compounds (C4, C5) are less durable and offer more grip and faster lap times. Different track surfaces and weather conditions determine the best tyres to use at each race, as well as pit stop strategies.
+
+Degradation: The process that describes thermal performance loss in tyres from either overheating or underheating, and which affects the performance and grip level of tyres.
+
+Graining: A phenomenon caused by a car sliding around too much on the track surface, which causes small pieces (grains) of the tyre to break away from the grooves and then stick to the outer surface of the tyre, making it more difficult to drive. Graining can be caused by several factors such as the track surface, choice of tyre compound, set-up of the car, fuel load and driving style.
+
+Lock-up: When one or more tyres stop rotating during heavy braking, often accompanied by large plumes of smoke. This often cause tyres to become flat spotted, or unevenly worn, resulting in a drop off in performance and the need to pit for fresh tyres. 
+
+Marbles: Small chunks of discarded tyre rubber (from blistering and graining) that build up at the side of the track, off the racing line. Drivers try to “stay out of the marbles,” as the track surface in these areas can be very slippery.
+

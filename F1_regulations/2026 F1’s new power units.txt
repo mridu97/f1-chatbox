@@ -1,0 +1,42 @@
+2026 REGULATIONS EXPLAINED: All you need to know about F1’s new power units
+
+Twelve years is a good run for a set of engine regulations. Having made their debut in 2014, F1’s first genuine generation of hybrid power units took the sport to new levels. They were the most reliable and most economical F1 engines of all time – but also powered the fastest F1 cars of all time – and they were arguably the most closely-matched F1 engines of all time, with each manufacturer scoring wins in double-figures.
+
+But all things come to pass. A new generation of power units takes over for 2026...
+
+Changes have been made to ensure we see more wheel-to-wheel racing… while at the same time, these new engines become simpler, more road relevant and thus more attractive to new entrants. The hybrid element of the power unit becomes more significant, while the sport also switches over to sustainable fuel blends. There’s a lot of new terms to assimilate but, just like in 2014, in a few months it’ll all seem quite straightforward.
+
+Until then, however, here’s our Q&A on the runners and riders and rules and regs for 2026 and beyond.
+
+So, exactly how many power unit manufacturers does F1 have?
+The first goal for these regs was to attract more engine builders, and that’s been a resounding success. F1 in 2026 has five power unit manufacturers, of which one is new and two are new-ish. Mercedes and Ferrari are the continuity names, and will be powering the bulk of the field. Mercedes have their works team, Williams, a new customer in Alpine and World Champions McLaren.
+
+Ferrari will power the works Ferrari, plus Haas and new F1 entry Cadillac. On top of that, we have a new collaboration between Red Bull and Ford that will power the two Red Bull teams; Honda return as a fully-fledged manufacturer with Aston Martin and, having taken over Sauber, the new Audi team of course have a new Audi power unit.
+
+Remind me, why are we calling it a power unit rather than an engine?
+Feel free to call it an engine! The term power unit has been used for the last decade-and-a-bit to help differentiate between the Internal Combustion Engine (ICE), which sits at the heart of the unit, and the wider system that also includes the Turbocharger (TC), battery (ES – for Energy Store), Control Electronics (CE) and the Motor-Generator Unit (MGU-K) that harvests energy but also feeds electrical power into the drivetrain.
+
+Is the whole hybrid system new, or are some parts of the original hybrid being retained?
+A little bit from column A, a little from column B. The philosophy of F1 operating with a cutting-edge hybrid power unit, some distance ahead of the technology on the road remains, but the architecture of that power unit is changing to make it more road-relevant, while also pushing the limits of what the hybrid part of the hybrid power unit is capable of delivering.
+
+The new unit retains the 1.6-litre turbocharged V6 engine (with a few tweaks) but deletes the MGU-H. The outgoing power unit featured two energy recovery systems: the MGU-K harvested energy under braking (the ‘K’ stands for Kinetic) while an MGU-H (‘H’ for Heat) harnessed the flow of exhaust gases.
+
+The latter was deemed surplus to requirements. While very effective, it was a complicated system. That wouldn’t necessarily be a deterrent for F1, but in the 18 years since the original F1 hybrids were sketched out, the technology hasn’t been adopted by road car manufacturers. Deleting the MGU-H and concentrating on the MGU-K – similar technology to which is present in road cars – makes the new unit less complicated and thus more attractive to manufacturers.
+
+Does deleting the MGU-H mean F1 cars will be less reliant on electrical energy?
+No. The opposite. The old units had around 20 per cent of their power supplied by the electrical system. The goal for 2026 is to increase this to around 50 per cent. The new MGU-K is nearly three times as powerful as its predecessor, delivering 350kW to the rear wheels, up from 120kW. Likewise, it will recover energy at a greatly increased rate, when the car is braking, coasting and also on throttle.
+
+I hear talk of sustainable fuel. What does that entail?
+This is part of F1’s commitment to reaching net zero by 2030. All teams will use Advanced Sustainable Fuels this year, and these were successfully trialled by F2 and F3 in 2025.
+
+The fuel is made from cutting-edge sources like carbon capture, municipal waste and non-food biomass – and it is independently certified to meet strict sustainability standards.
+
+
+Words like ‘boost’ and ‘recharge’ are flying around. What do they mean?
+These F1 cars will harvest energy to charge the battery when braking, on part throttle, when lifting off (when a driver lifts off the throttle early – often referred to as lift and coast) or when ‘super clipping’ (when some harvesting happens at the end of the straight when a car is still at full throttle). For the most part, this will be automated, handled by engine maps prepared in advance – but the drivers have the ability to override the automatics.
+
+The only Recharge mode the driver will have direct control of will be lift-off regen, whereby if the driver lifts off, then they can Recharge. However, doing this will disable the Active Aero devices on the car as well. In contrast, super clipping is still at full throttle and therefore the Active Aero will still be ‘open’.
+
+Regarding 'boost', for several years drivers have been able to press a button at any point over the course of a lap to activate energy deployment. From 2026, this will now be known as the Boost Button.
+
+When engaged, it will trigger a change in power unit power settings, either returning to maximum power or a profile configured by the team as per their personal choice. The boost could, in theory, either help them defend from a car behind or attack a car ahead providing they have saved enough charge. It can be used all at once or spread across the lap, depending on when they have the best chance to attack or where they are most vulnerable.
