@@ -1,5 +1,11 @@
 🏎️ F1 Chatbox
 
+# 🏎️ F1 Chatbox
+
+👉 **Live Demo:** https://f1-chatbox-ab4tf5g4mthv3uuwwedcmq.streamlit.app/
+
+A conversational AI-powered chatbot built around Formula 1...
+
 A conversational AI-powered chatbot built around Formula 1 — designed to answer questions, provide insights, and make exploring F1 more interactive and fun.
 
 Whether you're a casual fan or someone who tracks every race weekend, this project lets you “talk” F1 instead of just reading about it.
